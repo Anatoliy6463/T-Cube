@@ -1,4 +1,4 @@
-# TolyaCraft
+# TolyaGame1(Eaelier TolyaCraft)
 Minecraft Clone game with infinite world generation
 
 This is my new project, i wished to make game in 2020, but i haven't started my project.
